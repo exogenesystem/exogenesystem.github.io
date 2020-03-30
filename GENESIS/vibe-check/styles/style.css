@@ -1,0 +1,33 @@
+html {
+    background-color: #191919;
+}
+body {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+h1 {
+    margin: 0;
+    font-size: 60px;
+    font-family: "Audiowide", cursive;
+    line-height: 1;
+    color: #E2C6F0;
+    text-shadow: 3px 5px 1px #FFFFFF;
+}
+h2 {
+    font-size: 45px;
+    font-family: "Audiowide", cursive;
+}
+p, li {
+    font-size: 25px;
+    font-family: "Kalam", cursive;
+    text-align: center;
+}
+h2, p, li {
+    color: #D4D0D7;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 600x;
+}
